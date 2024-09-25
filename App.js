@@ -14,8 +14,8 @@ export default function App() {
 
       //Para colocar dois nomes específicos:
       let porcentagem;
-      if ((nome1.toLowerCase() === 'noah' && nome2.toLowerCase() === 'louie') ||
-          (nome1.toLowerCase() === 'louie' && nome2.toLowerCase() === 'noah')) {
+      if ((nome1.toLowerCase() === 'crowley' && nome2.toLowerCase() === 'aziraphale') ||
+          (nome1.toLowerCase() === 'aziraphale' && nome2.toLowerCase() === 'crowley')) {
             porcentagem = 99;
           } else {
             porcentagem = Math.floor(Math.random() * 101)
