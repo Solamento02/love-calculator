@@ -1,5 +1,7 @@
 # My love calculator
-It's some silly app that my boyfriend asked me to do. Just some love calculator that makes up the percentagem of you crush. Also I added one command that you can put an exception of specific names, it is on the code. </br>
+It's some silly app that my boyfriend asked me to do. Just some love calculator that makes up the percentagem of you crush. Also I added one command that you can put an exception of specific names, it is on the code. And about the icon app I'm gonna fix later </br>
+# Update
+- [ ] Icon App
 # Credit
 The image on the background <a href="https://canva.com">Canva</a>
 # Requirements </br>
